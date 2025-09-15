@@ -5,8 +5,8 @@
     --rosa-forte: #e26d8b;
     --cinza-claro: #fdfefe;
     --branco: #ffffff;
-    --body-cor-fundo: #222;
-    --container-cor-fundo: linear-gradient(0deg, #111 0%, #737373 100%);
+    --body-cor-fundo: #e26d8b;
+    --container-cor-fundo: linear-gradient(0deg, #e26d8b 0%, #fdcbcb 100%);
 }
 
 * {
@@ -64,12 +64,12 @@ body {
     border-radius: 2rem;
     
     background-color: transparent;
-    border: 1 solid var(--rosa-forte);
+    border: 1 solid #fdcbcb;
     transition: all 0.3s ease;
 }
 
 .lista-link:hover {
-    transform: scale(1.2);
+    transform: scale(1.1);
 }
 
 .lista-link img {
