@@ -1,13 +1,13 @@
 # `Página de Links`
 
-Uma página de links moderna e responsiva, projetada para consolidar todos os perfis e informações de contato de um dentista em um só lugar.
+Uma página de links moderna e responsiva, projetada para consolidar todos os perfis e informações de contato da Malu Store em um só lugar.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Página de links**
 | :label: Tecnologias | ![Descrição adicional opcional](https://img.shields.io/badge/-html5-E34F26?logo=html5&logoColor=white&style=for-the-badge) ![Descrição adicional opcional](https://img.shields.io/badge/-css3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 | :fire: Características     | ![Descrição adicional opcional](https://img.shields.io/badge/Responsivo-999999)
-| :rocket: URL         | https://jefersonwebdev.github.io/pagina-de-links-moderna-dentista/
+| :rocket: URL         | https://jefersonwebdev.github.io/malu-pagina-de-links/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 <!-- ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev) -->
@@ -53,9 +53,10 @@ Se você quiser clonar e personalizar o projeto, siga os passos abaixo:
 
 ## 🎨 Visualização
 
-![Uma imagem ou GIF mostrando a página de links](https://jefersonwebdev.github.io/pagina-de-links-moderna-dentista/src/img/pagina-de-links-dentista-gif4.gif)
-![](https://jefersonwebdev.github.io/pagina-de-links-moderna-dentista/src/img/pagina-de-links-dentista-mockup.png)
+<!-- ![Uma imagem ou GIF mostrando a página de links](https://jefersonwebdev.github.io/pagina-de-links-moderna-dentista/src/img/pagina-de-links-dentista-gif4.gif) -->
+![](https://jefersonwebdev.github.io/malu-pagina-de-links/src/img/pagina-de-links-malu-mockup.png)
 
 ## 📝 Licença
 
 Este projeto está sob a licença MIT. Para mais detalhes, veja o arquivo [LICENSE](LICENSE).
+
